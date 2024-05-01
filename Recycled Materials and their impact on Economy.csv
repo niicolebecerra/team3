@@ -1,0 +1,10 @@
+Materials,Employment,Wage,Tax
+Ferrous,230000,13,1.7
+Non-Ferrous,90000,5,0.5
+Glass,25000,1,0.1
+Paper,48000,2,0.2
+Plastics,25000,1,0.09
+Rubber,25000,1,0.1
+C&D,175000,10,1
+Electronics,10000,0.75,0.08
+Total Organics,55000,1.75,0.1
